@@ -67,8 +67,8 @@ CUDA >= 11.8 (recommended for GPU acceleration)
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/stavco9/neuralnetworks-final-project.git
-cd neuralnetworks-final-project
+git clone [https://github.com/stavco9/neuralnetworks-final-project](https://github.com/eforus-overseer-Pecani/Multimodal-Harmful-Content-Detection-Social-Media-Memes.git
+cd Multimodal-Harmful-Content-Detection-Social-Media-Memes
 
 # Install dependencies
 pip install -r requirements.txt
