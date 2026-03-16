@@ -329,7 +329,7 @@ This work is documented in our comprehensive academic paper. If you use this cod
 | Author | Role | Contact |
 |--------|------|---------|
 | **Stav Cohen** | CNN Architecture, Image Processing, Evaluation | [stav.cohen](mailto:stav.cohen9@ost.runi.ac.il) |
-| **eforus-overseer** | Text Classification, Fusion Strategies, Optimization | [efraim.pecani](mailto:eforus-overseer@users.noreply.github.com) |
+| **eforus-overseer** | Text Classification, Fusion Strategies, Optimization | [GitHub](https://github.com/eforus-overseer-Pecani) |
 
 *Computer Science M.Sc. Students*  
 *Reichman University, Israel*
