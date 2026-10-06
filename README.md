@@ -358,3 +358,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [📊 Results](#-experimental-results) • [🚀 Quick Start](#-quick-start) • [📄 Paper](docs/final_report.pdf) • [🐛 Issues](https://github.com/stavco9/neuralnetworks-final-project/issues)
 
 </div>
+
+---
+
+<!-- demo-lab:start -->
+## Explore this project
+
+[Project page & walkthrough](https://eforus-overseer.github.io/demo-lab/projects/multimodal-harmful-content-detection-social-media-memes/) — Explore the project, its method, and available demos or original artifacts.
+<!-- demo-lab:end -->
