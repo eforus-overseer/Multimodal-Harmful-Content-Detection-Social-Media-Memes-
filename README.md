@@ -369,8 +369,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 
 <!-- codex-pixel-art -->
-## Pixel art
+## Project visual
 
-![Pixel art for Multimodal-Harmful-Content-Detection-Social-Media-Memes-](assets/pixel-art.svg)
+![Pixel-art cover for Multimodal-Harmful-Content-Detection-Social-Media-Memes-](assets/project-cover.png)
 
-A small visual signature for this repository.
+<sub>Pixel-art adaptation of [OpenMoji speech balloon](https://github.com/hfg-gmuend/openmoji/blob/master/color/618x618/1F4AC.png) by OpenMoji contributors, licensed [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Source: OpenMoji.</sub>
